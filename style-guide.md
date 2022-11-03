@@ -1,9 +1,8 @@
 ## Gradients
 
 -Flame:linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%)
-
-- Ice:linear-gradient(90deg, #0700b8 0%, #00ff88 100%)
-- Wind:linear-gradient(90deg, #d53369 0%, #daae51 100%)
+-Ice:linear-gradient(90deg, #0700b8 0%, #00ff88 100%)
+-Wind:linear-gradient(90deg, #d53369 0%, #daae51 100%)
 
 ## Typography
 
